@@ -11,16 +11,11 @@ In this Codecadmey project I am investigating a medical insurance costs [dataset
 
 ![image](https://www.psmbrokerage.com/hs-fs/hubfs/weakness%20coupons%20health%20insurance%20meme.jpg?width=450&name=weakness%20coupons%20health%20insurance%20meme.jpg)
 
-
-## Results:
-
 <details>
-  <summary>Spoiler warning</summary>
-  
-  Spoiler text. Note that it's important to have a space after the summary tag. You should be able to write any markdown you want inside the `<details>` tag... just make sure you close `<details>` afterward.
+  <summary>Results:</summary>
+- The average age in the dataset is 39.
+- The majority region in the dataset is southeast.
+- The average cost for smokers is $ 32050.23.
+- The average cost for non smokers is $ 8434.27.
+- The average age for patients with one child is 39.
 </details>
->! The average age in the dataset is 39.
->! The majority region in the dataset is southeast.
->! The average cost for smokers is $ 32050.23.
->! The average cost for non smokers is $ 8434.27.
->! The average age for patients with one child is 39.
