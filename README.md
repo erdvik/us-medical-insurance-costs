@@ -12,10 +12,12 @@ In this Codecadmey project I am investigating a medical insurance costs [dataset
 ![image](https://www.psmbrokerage.com/hs-fs/hubfs/weakness%20coupons%20health%20insurance%20meme.jpg?width=450&name=weakness%20coupons%20health%20insurance%20meme.jpg)
 
 <details>
-  <summary>Results:</summary>
-- The average age in the dataset is 39.
-- The majority region in the dataset is southeast.
-- The average cost for smokers is $ 32050.23.
-- The average cost for non smokers is $ 8434.27.
-- The average age for patients with one child is 39.
+  <summary>Click here for results</summary>
+  <ul>
+    <li>The average age in the dataset is 39.</li>
+    <li>The majority region in the dataset is southeast</li>
+    <li>The average cost for smokers is $ 32050.23</li>
+    <li>The average cost for non smokers is $ 8434.27</li>
+    <li>The average age for patients with one child is 39</li>
+  </ul>  
 </details>
