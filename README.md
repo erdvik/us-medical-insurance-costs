@@ -13,8 +13,8 @@ In this Codecadmey project I am investigating a medical insurance costs [dataset
 
 
 ## Results:
->!- The average age in the dataset is 39.
->!- The majority region in the dataset is southeast.
->!- The average cost for smokers is $ 32050.23.
->!- The average cost for non smokers is $ 8434.27.
->!- The average age for patients with one child is 39.
+>! The average age in the dataset is 39.
+>! The majority region in the dataset is southeast.
+>! The average cost for smokers is $ 32050.23.
+>! The average cost for non smokers is $ 8434.27.
+>! The average age for patients with one child is 39.
